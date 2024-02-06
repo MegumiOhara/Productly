@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-size: 16px;
 }
 .header{
     width: 100%;
@@ -95,3 +96,58 @@ body{
 .page{
     position: relative;
 }
+.container2{
+    width: 100%;
+    position: relative;
+    max-width: 1126px;
+    height: 543px;
+    margin-left: 439px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    
+    
+    
+}
+.title2{
+    font-size: 36px;
+    width: 539px;
+    height: 108px;  
+    text-align: center;  
+
+}
+.tools{
+    width: 240px;
+    height: 178px;
+    font-size: 16px;
+}
+h3{
+    font-size: 22px;
+}
+
+.title3{
+    font-size: 36px;
+    width: 385px;
+    height: 54px;
+}
+.container3{
+    width: 100%;
+    max-width: 1110px;
+    height: 574px;
+    margin-left: 145px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.text3{
+    width: 486px;
+    height: 531px;
+}    
+.img-acc{
+    width: 520px;
+    height:574px;
+}
+
