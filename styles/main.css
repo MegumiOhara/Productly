@@ -5,18 +5,20 @@ body{
 .header{
     width: 100%;
     max-width: 1400px;
-    margin: 0 auto;
+    margin-left: 144px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-
 .nav {
     list-style-type: none;
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    position: relative;
+    right: 160px;
 }
+   
 .nav>li {
     margin-left: 20px;
 }
@@ -76,6 +78,12 @@ body{
     color: #FF9900;
     border: none;
     background-color: #FFFFFF;
+}
+.link1{
+    color: #FF9900;
+    position: relative;
+    left: 200px;
+    bottom: 40px;
 }
 .container{
     width: 100%;
